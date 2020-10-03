@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Cypress
 - 🌱 I’m currently learning Asynchronous programming
 - 💬 Ask me about Engineering Quality
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bharadwajpy/), [Twitter](https://twitter.com/bharadwaj_py), [StackOverflow](https://stackoverflow.com/users/4191196/bharadwaj-pendyala), [Portfolio](https://www.bharadwaj.netlify.app)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bharadwajpy/), [Twitter](https://twitter.com/bharadwaj_py), [StackOverflow](https://stackoverflow.com/users/4191196/bharadwaj-pendyala), [Portfolio](https://bharadwaj.netlify.app/)
